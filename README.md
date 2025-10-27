@@ -7,6 +7,12 @@ Telegram, pyrogram
 Flask, REST API
 SQLite
 
+My Soft skills:
+Team-Work
+Time Manegment
+Communication
+
+
 My Projects:
 https://github.com/VACUUMBRO/Platformer
 https://github.com/VACUUMBRO/Telegram-Bot
