@@ -8,9 +8,9 @@ Flask, REST API
 SQLite
 
 My Soft skills:
-Team-Work
-Time Manegment
-Communication
+Team-Work,
+Time Manegment,
+Communication,
 
 
 My Projects:
